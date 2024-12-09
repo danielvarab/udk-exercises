@@ -13,7 +13,7 @@
 3. Ask the user to input their guess
 4. Tell the user if they got it right or wrong
 
-*hint: use `input` to get the users input*
+*hint: use the function `input()` to get the users input*
 
 **Extensions**:
 - Make the secret number random
