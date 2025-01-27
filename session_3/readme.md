@@ -2,7 +2,7 @@
 
 Below are some approachable but not necessarily trivial exercises. Generally
 speaking, they can all be solved in 1-5 lines of code. The goal of today is 
-to get write some minimal coding, but perhaps more importantly, to reflect
+to write some minimal coding, but perhaps more importantly, to reflect
 on how these simple computations work in a logical way. Using this we will
 slowly move to the world of "AI" and reflect on how this is modeled and solved.
 
