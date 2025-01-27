@@ -55,6 +55,8 @@ Write a function `bitcoin_price_in_euros(bitcoin_amount)` that takes in one argu
 *hint: Use constants to pass the tests by their name, e.g. BITCOIN_PRICE*
 
 ```python
+BITCOIN_PRICE = 99125.17192690  # 27th of January
+DOLLAR_TO_EURO_RATE = 0.95
 def bitcoin_price_in_euros(bitcoin_amount):
     # you have access to two variables here:
     #  - BITCOIN_PRICE
