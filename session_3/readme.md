@@ -67,7 +67,7 @@ def bitcoin_price_in_euros(bitcoin_amount):
 ### Exercise 4
 Write a function `last_character_third_word(string)` that takes in one argument: `string`. The function should return the last character of the third word in the string. Assume that the words are given as a list of strings.
 
-*hint: remember you can split strings using the function split()*
+*hint: remember you can split strings using the string function split() and that you can index into lists, e.g. `random_list[5]`*
 
 ```python
 def last_character_third_word(string):
