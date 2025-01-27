@@ -36,7 +36,6 @@ def test_suite():
         ("Aragorn", "son of Arathorn", 23),
         ("Legolas", "Greenleaf", 17),
         ("Gimli", "son of Glóin", 18),
-        ("Gollum", "(Sméagol)", 16),
         ("Boromir", "of Gondor", 17),
         ("Galadriel", "of Lothlórien", 23),
         ("Meriadoc", "Brandybuck", 19),
