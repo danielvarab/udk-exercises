@@ -32,7 +32,7 @@ For starters, I'd recommend you solve the programming step without the help of C
 ## Exercises
 
 ### Exercise 1
-Write a function `price_with_taxes(price, tax_rate)` that takes in two arguments: `price` and `tax_rate`. The function should return the price with taxes included. Assume that the tax rate is given as a percentage.
+Write a function `price_with_taxes(price, tax_rate)` that takes in two arguments: `price` and `tax_rate`. The function should return the price with taxes included. Assume that the tax rate is given as a percentage (meaning between 0 and 1).
 
 An example. If the price is 10 (euros perhaps) and the tax rate is 20%, then the function should return the number 12.
 ```python
